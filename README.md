@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vivian Yang</h1>
-<h3 align="center">A passionate frontend developer from Taiwan.</h3>
 
 - 🔭 I’m currently working on [ywyang236.github.io](https://github.com/ywyang236/ywyang236.github.io)
 
 - 🌱 I’m currently learning **React.js, react native, swift.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [blogger](https://ywyang236.blogspot.com/)</h3>
 <p align="left">
 </p>
 
